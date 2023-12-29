@@ -23,7 +23,7 @@ _Importent:_ plz remember that all ads setting plz do it in this site
 2. uesally is 互動 and 潛在
    ![Alt text](./asset/image-2.png)
 3. no setting here, you can name your ads name
-   ![Alt text](image-3.png)
+   ![Alt text](./asset/image-3.png)
 4. next
 
 ### step 2:
